@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.time.Instant;
 
 @MappedSuperclass
-public abstract class AbstractEntity {
+public  class AbstractEntity {
 
 
     @Id
